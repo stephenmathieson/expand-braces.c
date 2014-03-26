@@ -1,0 +1,8 @@
+{
+  "name": "expand-braces",
+  "repo": "stephenmathieson/expand-braces.c",
+  "version": "0.0.0",
+  "src": [
+    "expand-braces.h", "expand-braces.c"
+  ]
+}
